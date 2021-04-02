@@ -1,0 +1,12 @@
+.recommendedvideos{
+    flex:0.8;
+    background-color: rgb(228, 228, 228);
+    padding: 40px 20px;
+    padding-bottom: 0;
+}
+
+.recommended__videos{
+    display: flex;
+    flex-wrap: wrap;
+}
+
